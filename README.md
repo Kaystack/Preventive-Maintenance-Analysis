@@ -1,6 +1,6 @@
 # Preventive-Maintenance-Analysis 
 
-This project aims to analyze preventive maintenance data using the K-Nearest Neighbors (KNN) algorithm.
+Preventive maintenance analysis is a technique used to identify potential equipment failures and prevent them from occurring by regularly conducting maintenance activities. The analysis involves reviewing maintenance records and analyzing the data to identify patterns of equipment failure and determine the root causes of the failures. This information is then used to develop a preventive maintenance plan that outlines the specific maintenance activities that need to be performed and the frequency with which they should be conducted to prevent equipment failure. The goal of preventive maintenance analysis is to improve equipment reliability, minimize downtime, and reduce maintenance costs by identifying and addressing potential issues before they become major problems. This technique is commonly used in industries such as manufacturing, transportation, and energy to ensure that equipment is operating efficiently and effectively.
 
 # Installation
 The project requires installation of the following libraries:
